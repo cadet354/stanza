@@ -45,7 +45,7 @@ def do_annotate(args):
                 if args.sentence_mode:
                     ann = ann["sentences"][0]
 
-                args.output.write(json.dumps(ann))
+                args.output.write(json.dumps(ann), ensure_ascii=False)
                 args.output.write("\n")
 
 def main():

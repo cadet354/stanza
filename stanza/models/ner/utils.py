@@ -121,6 +121,12 @@ def decode_from_bioes(tags):
             cur_type = tag[2:]
             flush()
             ent_idxs = []
+        else:
+            flush()
+            ent_idxs = [idx]
+            cur_type = tag
+            flush()
+            ent_idxs = []
     # flush after whole sentence
     flush()
     return res

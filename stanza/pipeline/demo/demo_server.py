@@ -48,7 +48,7 @@ def annotate():
                 'dependent': word.id, 'dependentGloss': word.text})
         annotated_sentences.append({'basicDependencies': deps, 'tokens': tokens})
 
-    return json.dumps({'sentences': annotated_sentences})
+    return json.dumps({'sentences': annotated_sentences}, ensure_ascii=False)
 
 def create_app():
     return app

@@ -20,7 +20,7 @@ class SpacyTokenizer():
     def __init__(self, lang='en'):
         """ Construct a spaCy-based tokenizer by loading the spaCy pipeline.
         """
-        if lang != 'en':
+        if lang != 'en' and lang != "ru2":
             raise Exception("spaCy tokenizer is currently only allowed in English pipeline.")
 
         try:
@@ -33,10 +33,17 @@ class SpacyTokenizer():
         
         # Create a Tokenizer with the default settings for English
         # including punctuation rules and exceptions
-        self.nlp = English()
+        if lang == "ru2":
+            self.nlp = spacy.load('ru2')
+        else:
+            self.nlp = English()
         # by default spacy uses dependency parser to do ssplit
         # we need to add a sentencizer for fast rule-based ssplit
-        sentencizer = self.nlp.create_pipe('sentencizer')
+        if lang == "ru":
+            sentencizer = self.nlp.create_pipe('sentencizer', first=True)
+        else:
+            sentencizer = self.nlp.create_pipe('sentencizer')
+
         self.nlp.add_pipe(sentencizer)
     
     def tokenize(self, text):

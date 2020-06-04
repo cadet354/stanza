@@ -31,8 +31,8 @@ def main():
             sent += [{'text': w, 'ner': t}]
         document += [sent]
 
-    with open(args.output, 'w') as outfile:
-        json.dump(document, outfile)
+    with open(args.output, 'w', encoding='utf8') as outfile:
+        json.dump(document, outfile, ensure_ascii=False)
     print("Generated json file {}.".format(args.output))
 
 def load_conll03(filename, skip_doc_start=True):
