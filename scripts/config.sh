@@ -21,6 +21,7 @@ export POS_DATA_DIR=$DATA_ROOT/pos
 export DEPPARSE_DATA_DIR=$DATA_ROOT/depparse
 export ETE_DATA_DIR=$DATA_ROOT/ete
 export NER_DATA_DIR=$DATA_ROOT/ner
+export NERBASE=$DATA_ROOT/ner
 export CHARLM_DATA_DIR=$DATA_ROOT/charlm
 
 # Set directories to store external word vector data
