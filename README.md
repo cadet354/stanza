@@ -103,6 +103,11 @@ The last command will print out the words in the first sentence in the input str
 ('.', '4', 'punct')
 ```
 
+Run train model
+```
+scripts/run_ner.sh Russian-kasha --shorthand=ru_kasha --wordvec_dir=./extern_data/ --cuda=True
+```
+
 See [our getting started guide](https://stanfordnlp.github.io/stanza/installation_usage.html#getting-started) for more details.
 
 ### Accessing Java Stanford CoreNLP software

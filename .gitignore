@@ -6,7 +6,6 @@
 *.lem
 *.toklabels
 
-data/
 stanza_test/
 saved_models/
 logs/
