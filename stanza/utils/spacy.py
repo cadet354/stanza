@@ -4,6 +4,7 @@ Utilities related to using spaCy in the pipeline.
 
 from stanza.models.common import doc
 
+
 def check_spacy():
     """
     Import necessary components from spaCy to perform tokenization.
@@ -15,6 +16,7 @@ def check_spacy():
             "spaCy is used but not installed on your machine. Go to https://spacy.io/usage for installation instructions."
         )
     return True
+
 
 class SpacyTokenizer():
     def __init__(self, lang='en'):
@@ -30,7 +32,7 @@ class SpacyTokenizer():
             raise ImportError(
                 "spaCy 2.0+ is used but not installed on your machine. Go to https://spacy.io/usage for installation instructions."
             )
-        
+
         # Create a Tokenizer with the default settings for English
         # including punctuation rules and exceptions
         if lang == "ru2":
@@ -45,21 +47,21 @@ class SpacyTokenizer():
             sentencizer = self.nlp.create_pipe('sentencizer')
 
         self.nlp.add_pipe(sentencizer)
-    
+
     def tokenize(self, text):
         """ Tokenize a document with the spaCy tokenizer and wrap the results into a Doc object.
         """
         if not isinstance(text, str):
             raise Exception("Must supply a string to the spaCy tokenizer.")
         spacy_doc = self.nlp(text)
-        
+
         sentences = []
         for sent in spacy_doc.sents:
             tokens = []
             for tok in sent:
                 token_entry = {
                     doc.TEXT: tok.text,
-                    doc.MISC: f"{doc.START_CHAR}={tok.idx}|{doc.END_CHAR}={tok.idx+len(tok.text)}"
+                    doc.MISC: f"{doc.START_CHAR}={tok.idx}|{doc.END_CHAR}={tok.idx + len(tok.text)}"
                 }
                 tokens.append(token_entry)
             sentences.append(tokens)

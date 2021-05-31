@@ -24,7 +24,7 @@ __author__ = 'arunchaganty, kelvinguu, vzhong, wmonroe4'
 
 logger = logging.getLogger('stanza')
 
-# pattern tmp props file should follow
+# pattern test.bio props file should follow
 SERVER_PROPS_TMP_FILE_PATTERN = re.compile('corenlp_server-(.*).props')
 
 # info for Stanford CoreNLP supported languages
@@ -293,7 +293,7 @@ class CoreNLPClient(RobustService):
 
         1. File path on system or in CLASSPATH (e.g. /path/to/server.props or StanfordCoreNLP-french.properties
         2. Stanford CoreNLP supported language (e.g. french)
-        3. Python dictionary (properties written to tmp file for Java server, erased at end)
+        3. Python dictionary (properties written to test.bio file for Java server, erased at end)
         4. Default (just use standard defaults set server side in Java code, with the exception that the default
                     default outputFormat is changed to serialized)
 
@@ -301,7 +301,7 @@ class CoreNLPClient(RobustService):
         client side properties.  If the defaults are being set server side, those parameters will be ignored.
 
         Info about the properties used to start the server is stored in self.server_start_info
-        If a file is used, info about the file (path, whether tmp or not) is stored in self.server_props_file
+        If a file is used, info about the file (path, whether test.bio or not) is stored in self.server_props_file
         """
         # store information about server start up
         self.server_start_info = {}
@@ -358,7 +358,7 @@ class CoreNLPClient(RobustService):
             # override if a specific output format was specified
             if output_format is not None and isinstance(output_format, str):
                 client_side_properties['outputFormat'] = output_format
-            # write client side props to a tmp file which will be erased at end
+            # write client side props to a test.bio file which will be erased at end
             self.server_props_file['path'] = write_corenlp_props(client_side_properties)
             atexit.register(clean_props_file, self.server_props_file['path'])
             self.server_props_file['is_temp'] = True
@@ -599,7 +599,7 @@ def write_corenlp_props(props_dict, file_path=None):
     """ Write a Stanford CoreNLP properties dict to a file """
     if file_path is None:
         file_path = f"corenlp_server-{uuid.uuid4().hex[:16]}.props"
-        # confirm tmp file path matches pattern
+        # confirm test.bio file path matches pattern
         assert SERVER_PROPS_TMP_FILE_PATTERN.match(file_path)
     with open(file_path, 'w') as props_file:
         for k, v in props_dict.items():
