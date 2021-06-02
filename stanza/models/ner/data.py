@@ -147,6 +147,7 @@ class DataLoader:
             convert_to_bioes = True
             logger.debug("BIO tagging scheme found in input; converting into BIOES scheme...")
         # process tags
+        logger.debug("sentences count %d" % len(sentences))
         for sent in sentences:
             words, tags = zip(*sent)
             # NER field sanity checking
@@ -158,6 +159,7 @@ class DataLoader:
             if convert_to_bioes:
                 tags = bio2_to_bioes(tags)
             res.append([[w,t] for w,t in zip(words, tags)])
+        logger.debug("tags count %d" % len(res))
         return res
 
     def process_chars(self, sents):

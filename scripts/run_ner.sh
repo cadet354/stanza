@@ -20,6 +20,7 @@ dev_file=${NER_DATA_DIR}/${short}.dev.json
 test_file=${NER_DATA_DIR}/${short}.test.json
 
 if [ ! -e $train_file ]; then
+    echo "run prepare $corpus"
     bash scripts/prep_ner_data.sh $corpus
 fi
 

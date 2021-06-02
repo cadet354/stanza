@@ -1,0 +1,3853 @@
+"	O
+levrana	BRAND
+альгинатная	O
+маска	PRODUCT
+для	PRODUCT
+лица	PRODUCT
+,	O
+увлажняющая,	O
+30гр	CARDINAL
+"	O
+
+a	O
+lfaparf	BRAND
+маска	PRODUCT
+д/сухих	PRODUCT
+волос	PRODUCT
+200мл	CARDINAL
+
+insight	BRAND
+damaged	O
+hair	O
+restructurizing	O
+spray	PRODUCT
+
+полирующая	O
+сыворотка	PRODUCT
+для	PRODUCT
+секущихся	PRODUCT
+кончиков	PRODUCT
+split	MODEL
+end	MODEL
+seal	MODEL
+
+"	O
+шампунь	PRODUCT
+для	PRODUCT
+волос	PRODUCT
+tnl	BRAND
+daily	MODEL
+care	MODEL
+'роскошь	O
+и	O
+защита	O
+цвета',	O
+1000	CARDINAL
+мл	CARDINAL
+5407705"	O
+
+"тканевая	O
+маска	PRODUCT
+luke	BRAND
+для	PRODUCT
+лица	PRODUCT
+,	O
+с	O
+гиалуроновой	O
+кислотой"	O
+
+"	O
+термосумка	PRODUCT
+бирюзовая,	O
+коллекция	O
+teddy&bu	MODEL
+"	O
+
+станок	PRODUCT
+для	PRODUCT
+бритья	PRODUCT
+bic	BRAND
+3	O
+sensitive	O
+с	O
+тремя	O
+лезвиями.	O
+4	CARDINAL
+шт	CARDINAL
+
+fresh	BRAND
+line	BRAND
+крем	PRODUCT
+для	PRODUCT
+рук	PRODUCT
+ваниль	O
+
+концентрат	PRODUCT
+для	PRODUCT
+сужения	PRODUCT
+пор	PRODUCT
+sebium	O
+
+super	O
+lotion	PRODUCT
+250	CARDINAL
+ml	CARDINAL
+
+"	O
+крем	PRODUCT
+-	O
+краска	PRODUCT
+светлый	O
+бежевый	O
+перламутровый	O
+блонд	O
+без	O
+аммония	O
+краска	PRODUCT
+для	PRODUCT
+волос	PRODUCT
+kapous	BRAND
+professional	O
+100	CARDINAL
+мл	CARDINAL
+.	O
+774,	O
+№	O
+8.23"	O
+
+шампунь	PRODUCT
+l'oreal	O
+paris	O
+elseve	BRAND
+эксперт	O
+цвета	O
+400мл	CARDINAL
+
+platinum	MODEL
+egoiste	MODEL
+
+сигаретный	O
+табак	PRODUCT
+mac	BRAND
+baren	BRAND
+-	O
+mango	O
+choice	O
+#25	O
+(	O
+40	CARDINAL
+гр	CARDINAL
+)	O
+
+essence	BRAND
+coconut	O
+kiss	O
+caring	O
+lip	O
+peeling	PRODUCT
+
+maybelline	BRAND
+fit	O
+me	O
+concealer	PRODUCT
+
+easy	BRAND
+spa	BRAND
+aloe	MODEL
+centella	MODEL
+foot	PRODUCT
+cream	PRODUCT
+for	O
+dry	O
+damaged	O
+skin	O
+
+l'occitane	BRAND
+cherry	O
+blossom	O
+lip	O
+balm	PRODUCT
+
+активный	O
+тоник	PRODUCT
+против	PRODUCT
+выпадения	PRODUCT
+волос	PRODUCT
+aromatica	BRAND
+active	O
+v	O
+anti-hair	O
+loss	O
+tonic	O
+
+cottage	BRAND
+extra	O
+nourishing	O
+precious	O
+oil	O
+shower	PRODUCT
+with	O
+argan	O
+oil	O
+
+clinique	BRAND
+take	O
+the	O
+day	O
+off	O
+makeup	O
+remover	PRODUCT
+
+комплимент	O
+от	O
+biore	BRAND
+миниатюра	O
+гидрофильного	O
+масла	PRODUCT
+50	CARDINAL
+мл	CARDINAL
+
+l'oreal	BRAND
+volumissime	O
+carbon	O
+black	O
+mascara	PRODUCT
+
+sisley	BRAND
+phyto-lip	O
+twist	O
+карандаш	PRODUCT
+-	O
+блеск	PRODUCT
+для	PRODUCT
+губ	PRODUCT
+
+8.1.8	O
+beauty	O
+formula	O
+гиалуроновый	O
+увлажняющий	O
+крем	PRODUCT
+для	PRODUCT
+чувствительной	PRODUCT
+кожи	PRODUCT
+50	CARDINAL
+мл	CARDINAL
+
+bioaqua	BRAND
+ночная	O
+смягчающая	O
+маска	PRODUCT
+для	PRODUCT
+лица	PRODUCT
+с	O
+лепестками	O
+роз	O
+120гр	CARDINAL
+питание	O
+
+dr.ceuracle	BRAND
+pro	O
+balance	O
+biotics	O
+moisturizer	PRODUCT
+
+coco	O
+body	O
+scrub	PRODUCT
+watermelon	O
+
+"	O
+lgume1	BRAND
+краска	PRODUCT
+little	MODEL
+greene	MODEL
+intelligent	O
+matt	O
+emulsion	O
+ultimatt	O
+в/э	O
+матовая	O
+база	PRODUCT
+extra	O
+deep	O
+1л	CARDINAL
+,	O
+208"	O
+
+увлажняющие	O
+тканевые	PRODUCT
+маски	PRODUCT
+elizavecca	BRAND
+deep	MODEL
+power	MODEL
+ringer	MODEL
+mask	O
+pack	O
+fruits	O
+-	O
+с	O
+фруктовыми	O
+экстрактами	O
+
+le	O
+volume	O
+de	O
+chanel	BRAND
+waterproof	O
+
+lion	BRAND
+thailand	BRAND
+feminine	O
+cleansing	O
+shiso	O
+extract	O
+and	O
+aloe	O
+vera	O
+
+double	O
+action	O
+soapless	O
+soap	PRODUCT
+250	CARDINAL
+ml	CARDINAL
+
+термофутболка	BRAND
+для	O
+мальчиков	O
+-	O
+подростков	O
+серии	O
+climate	MODEL
+control	MODEL
+
+clarins	BRAND
+re-move	O
+micellar	PRODUCT
+cleansing	O
+water	O
+
+gosh	BRAND
+prime'n	O
+set	O
+primer	PRODUCT
+&	O
+mattifying	O
+setting	O
+powder	PRODUCT
+hydration	O
+
+термолеггинсы	PRODUCT
+3/4	O
+женские	O
+серии	O
+climate	O
+control	O
+
+cosrx	BRAND
+hydrium	O
+moisture	O
+power	O
+enriched	O
+cream	PRODUCT
+
+simplex	BRAND
+coco	MODEL
+а+b	MODEL
+5	CARDINAL
+l	CARDINAL
+
+schwarzkopf	BRAND
+professional	O
+bonacure	O
+scalp	O
+genesis	O
+root	O
+activating	O
+serum	PRODUCT
+
+"	O
+monami	BRAND
+professional	BRAND
+,	O
+гель	PRODUCT
+-	O
+лак	PRODUCT
+№032"	O
+
+la'dor	BRAND
+moisture	O
+шампунь	PRODUCT
+для	O
+волос	O
+увлажняющий	O
+moisture	O
+balancing	O
+shampoo	O
+530мл	CARDINAL
+
+увлажняющие	O
+патчи	PRODUCT
+с	O
+морским	O
+коллагеном	O
+wellderma	BRAND
+collagen	O
+impact	O
+sapphire	O
+eye	O
+mask	O
+
+estel	BRAND
+professional	O
+шампунь	PRODUCT
+д/волос	PRODUCT
+luxury	MODEL
+blond	MODEL
+300мл	CARDINAL
+
+восстанавливающий	O
+крем	PRODUCT
+с	O
+центеллой	O
+purito	BRAND
+centella	O
+green	O
+level	O
+recovery	O
+cream	O
+
+крем	PRODUCT
+после	PRODUCT
+бритья	PRODUCT
+cool	O
+50	CARDINAL
+мл	CARDINAL
+.	O
+(c-762d)	O
+2042826	O
+
+"	O
+kaypro	BRAND
+,	O
+окислительная	O
+эмульсия	PRODUCT
+super	O
+kay	O
+20	O
+vol/6%,	O
+1000	CARDINAL
+мл	CARDINAL
+"	O
+
+la	BRAND
+corvette	BRAND
+baume	PRODUCT
+mains	O
+fleur	O
+d'olivier	O
+l'huile	O
+d'olive	O
+bio	O
+
+cutrin	BRAND
+muoto	O
+iconic	O
+multispray	O
+
+краситель	PRODUCT
+для	PRODUCT
+смолы	PRODUCT
+№т-24	O
+resin	O
+pigment	O
+(mango)	O
+
+erborian	BRAND
+pyja-mask	O
+party	O
+set	O
+
+lancome	BRAND
+rose	O
+sugar	O
+scrub	PRODUCT
+
+маска	PRODUCT
+из	O
+нетканного	O
+материала	O
+с	O
+клапаном	O
+ecos	O
+№95	O
+5115000	O
+
+japan	BRAND
+gals	BRAND
+pure	O
+5	O
+essence	O
+mask	PRODUCT
+collagen	O
+pack	O
+
+очищающая	O
+пенка	PRODUCT
+-	O
+тоник	PRODUCT
+ageloc	MODEL
+
+styx	BRAND
+rosengarten	O
+intensive	O
+beauty	O
+serum	PRODUCT
+with	O
+aloe	O
+vera	O
+
+holika	BRAND
+holika	BRAND
+pure	O
+essence	O
+mask	PRODUCT
+sheet	O
+charcoal	O
+
+jo	BRAND
+malone	BRAND
+christmas	O
+cracker	O
+set	O
+limited	O
+edition	O
+
+пенки	PRODUCT
+для	PRODUCT
+умывания	PRODUCT
+на	O
+основе	O
+натуральных	O
+экстрактов	O
+holika	BRAND
+holika	BRAND
+daily	MODEL
+garden	MODEL
+cleansing	O
+foam	O
+rice	O
+(рис)	O
+
+т	O
+рафареты	PRODUCT
+для	PRODUCT
+аэрографии	PRODUCT
+на	PRODUCT
+ногтях	PRODUCT
+oneair	O
+тату	O
+
+wella	BRAND
+professionals	O
+oil	O
+reflections	O
+luminous	O
+reveal	O
+shampoo	PRODUCT
+
+"	O
+маска	PRODUCT
+восстанавливающая	O
+индола	O
+маски	O
+для	PRODUCT
+волос	PRODUCT
+indola	BRAND
+professional	BRAND
+200	CARDINAL
+мл	CARDINAL
+.	O
+2469845,"	O
+
+"	O
+маска	PRODUCT
+для	PRODUCT
+лица	PRODUCT
+l'oreal	BRAND
+магия	O
+глины,	O
+очищение	O
+и	O
+матирование,	O
+6	CARDINAL
+мл	CARDINAL
+"	O
+
+declare	BRAND
+skin	PRODUCT
+meditation	O
+mask	PRODUCT
+
+bio-groom	BRAND
+stain	O
+free	O
+маскировка	O
+от	O
+слезных	O
+дорожек	O
+под	O
+глазами	O
+
+"	O
+yoko	BRAND
+,	O
+пилка	PRODUCT
+прямая	O
+узкая	O
+240/240	ORDINAL
+,	O
+зебра,	O
+y	O
+sf055	O
+р"	O
+
+biotherm	BRAND
+aqua	O
+glow	O
+super	O
+concentrate	PRODUCT
+
+kapous	BRAND
+мужской	O
+тонизирующий	O
+шампунь	PRODUCT
+3	O
+в	O
+1	O
+серии	O
+'	O
+gentlemen	MODEL
+'	O
+1000	CARDINAL
+мл	CARDINAL
+
+т	O
+ермоколготки	PRODUCT
+женские	O
+серии	O
+wool+silk	O
+
+seb	O
+man	O
+the	O
+purist	O
+purifying	O
+shampoo	PRODUCT
+
+"	O
+bioaqua	BRAND
+,	O
+двойная	O
+маска	PRODUCT
+для	O
+ухода	O
+-	O
+очищение	O
+и	O
+матирование	O
+т-зоны	O
+и	O
+подтяжка	O
+овала	O
+лица,	O
+banbang	O
+mask	O
+(	O
+50	CARDINAL
+гр	CARDINAL
+.	O
++	O
+50	CARDINAL
+гр	CARDINAL
+.)..."	O
+
+мицеллярная	PRODUCT
+вода	PRODUCT
+для	O
+лица	O
+eveline	BRAND
+royal	O
+snail	O
+восстанавливающая	O
+3	O
+в	O
+1	O
+500мл	CARDINAL
+
+"	O
+klio	BRAND
+professional	BRAND
+,	O
+пилка	PRODUCT
+полукруглая,	O
+100/100"	O
+
+консилер	PRODUCT
+для	PRODUCT
+лица	PRODUCT
+essence	BRAND
+camouflage+	O
+matt	O
+20	O
+light	O
+ivory	O
+5мл	CARDINAL
+
+крем	PRODUCT
+-	O
+краска	PRODUCT
+темный	O
+блондин	O
+matrix	BRAND
+color	O
+sync	O
+90	CARDINAL
+мл	CARDINAL
+6n	O
+
+"	O
+крем	PRODUCT
+-	O
+краска	PRODUCT
+для	PRODUCT
+волос	PRODUCT
+garnier	BRAND
+color	MODEL
+sensation	MODEL
+,	O
+3.16	O
+аметист,	O
+110	CARDINAL
+мл	CARDINAL
+"	O
+
+набор	PRODUCT
+ночных	PRODUCT
+масок	PRODUCT
+-	O
+желе	PRODUCT
+с	O
+коллагеном	O
+и	O
+центеллой	O
+bioaqua	BRAND
+collagen	O
+firming	O
+sleeping	O
+mask	O
+(	O
+4мл*20шт	CARDINAL
+)	O
+
+маска	PRODUCT
+для	PRODUCT
+лица	PRODUCT
+spiro	O
+пушкинский	O
+музей	O
+-	O
+танцовщицы	O
+на	O
+репетиции	O
+
+ollin	BRAND
+silk	MODEL
+touch	MODEL
+1.5%	O
+5vol.	O
+окисляющая	O
+крем-эмульсия	PRODUCT
+90	CARDINAL
+мл	CARDINAL
+/	O
+oxidizing	O
+emulsion	O
+cream	O
+
+dr.jart	BRAND
+cicapair	O
+calming	O
+mist	O
+
+emansi	BRAND
++	O
+aph	O
+system	O
+spray	O
+антисептик	PRODUCT
+
+lumene	BRAND
+puhdas	O
+deeply	O
+purifying	O
+micellar	O
+gel	PRODUCT
+cleanser	O
+
+"	O
+мицеллярная	PRODUCT
+вода	PRODUCT
+garnier	BRAND
+экспертное	O
+очищение,	O
+для	O
+всех	O
+типов	O
+кожи,	O
+400	CARDINAL
+мл	CARDINAL
+"	O
+
+"	O
+лак	PRODUCT
+для	PRODUCT
+волос	PRODUCT
+taft	BRAND
+воздушный	MODEL
+объем	MODEL
+,	O
+4,	O
+для	PRODUCT
+тонких	PRODUCT
+волос	PRODUCT
+,	O
+сверхсильная	O
+фиксация,	O
+225	CARDINAL
+мл	CARDINAL
+"	O
+
+funs	BRAND
+washing	PRODUCT
+gel	PRODUCT
+2-1	O
+
+lululun	BRAND
+premium	O
+face	O
+mask	PRODUCT
+spring	O
+sakura	O
+7	CARDINAL
+pack	CARDINAL
+
+starskin	BRAND
+celery	O
+juice	O
+hybrid	O
+cleansing	O
+balm	PRODUCT
+
+weleda	BRAND
+мужской	O
+гель	PRODUCT
+для	PRODUCT
+душа	PRODUCT
+
+lululun	BRAND
+premium	O
+face	O
+mask	PRODUCT
+peach	O
+7	CARDINAL
+pack	CARDINAL
+
+wet	BRAND
+n	BRAND
+wild	BRAND
+megalast	O
+lipstick	PRODUCT
+
+alfaparf	BRAND
+кондиционер	PRODUCT
+д/нормальных	PRODUCT
+волос	PRODUCT
+придающий	O
+блеск	O
+200м	CARDINAL
+
+"	O
+маска	PRODUCT
+для	PRODUCT
+лица	PRODUCT
+s+miracle	BRAND
+успокаивающая	O
+,	O
+с	O
+экстрактом	O
+алоэ	O
+вера	O
+25г	CARDINAL
+"	O
+
+weleda	BRAND
+бальзам	PRODUCT
+для	PRODUCT
+десен	PRODUCT
+с	O
+шалфеем	O
+серебром	O
+и	O
+лекарственными	O
+травами	O
+30	CARDINAL
+мл	CARDINAL
+
+"	O
+pantene	BRAND
+бальзам	PRODUCT
+-	O
+ополаскиватель	PRODUCT
+густые	O
+и	O
+крепкие	O
+для	PRODUCT
+тонких	PRODUCT
+,	O
+слабых	PRODUCT
+волос	PRODUCT
+,	O
+360	CARDINAL
+мл	CARDINAL
+"	O
+
+japan	BRAND
+gals	BRAND
+natural	O
+pearl	O
+mask	PRODUCT
+pack	O
+
+комплимент	O
+от	O
+clinique	BRAND
+cредство	PRODUCT
+для	PRODUCT
+снятия	PRODUCT
+макияжа	PRODUCT
+50	CARDINAL
+мл	CARDINAL
+
+маска	PRODUCT
+тканевая	PRODUCT
+черная	O
+red	O
+lips	O
+
+бурлящий	PRODUCT
+шар	PRODUCT
+'shine	O
+bright'	O
+130	CARDINAL
+г	CARDINAL
+4662291	O
+
+"si202	O
+колготки	PRODUCT
+20	O
+den,	O
+размер	O
+xl	ORDINAL
+,	O
+цвет	O
+б"	O
+
+your	O
+skin	O
+micellar	PRODUCT
+water	PRODUCT
+
+clinique	BRAND
+just	MODEL
+browsing	MODEL
+brush-on	O
+styling	O
+mousse	PRODUCT
+
+пятновыводитель	PRODUCT
+кислородный	O
+extra	O
+oxy	O
+се	O
+
+giorgio	BRAND
+armani	BRAND
+acqua	MODEL
+di	MODEL
+gio	MODEL
+pour	MODEL
+homme	MODEL
+edt	PRODUCT
+
+i	MODEL
+heart	MODEL
+revolution	MODEL
+fantasy	O
+eyeliner	PRODUCT
+
+блеск	PRODUCT
+для	PRODUCT
+губ	PRODUCT
+too	MODEL
+glam	MODEL
+/	O
+lipgloss	O
+too	O
+gla	O
+
+"подарочный	O
+набор	O
+woman's	O
+day:	O
+шампунь	PRODUCT
+'5	O
+целебных	O
+глин',	O
+масло	PRODUCT
+и	O
+бальзам	PRODUCT
+для	PRODUCT
+волос	PRODUCT
+4126484"	O
+
+кондиционер	PRODUCT
+tresemme	BRAND
+repair	MODEL
+and	MODEL
+protect	MODEL
+восстанавливающий	O
+400мл	CARDINAL
+
+almond	O
+cherry	O
+soap	PRODUCT
+
+paco	BRAND
+rabanne	BRAND
+invictus	MODEL
+eau	PRODUCT
+de	PRODUCT
+toilette	PRODUCT
+
+p	O
+upa	BRAND
+like	O
+a	O
+doll	O
+loose	O
+powder	PRODUCT
+
+estel	BRAND
+otium	O
+miracle	O
+revive	O
+mask	PRODUCT
+
+redken	BRAND
+brews	O
+daily	O
+shampoo	PRODUCT
+
+dior	BRAND
+miss	O
+dior	BRAND
+eau	PRODUCT
+de	PRODUCT
+toilette	PRODUCT
+
+сake	O
+сolors	O
+водорастворимый	O
+сухой	O
+краситель	PRODUCT
+тартразин	O
+желтый	O
+10	CARDINAL
+г	CARDINAL
+4467827	O
+
+d	O
+r.jart	BRAND
+ctrl-a	O
+teatreement	O
+toner	O
+tonique	PRODUCT
+
+catrice	BRAND
+liquid	O
+camouflage	O
+high	O
+coverage	O
+concealer	PRODUCT
+
+mizon	BRAND
+тканевая	PRODUCT
+маска	PRODUCT
+для	PRODUCT
+лица	PRODUCT
+с	O
+экстрактом	O
+гранатового	O
+сока	O
+joyful	O
+time	O
+essence	O
+mask	O
+pomegra	O
+4990925	O
+
+wella	BRAND
+professionals	O
+invigo	O
+volume	O
+boost	O
+bodifying	O
+shampoo	PRODUCT
+
+easy	BRAND
+spa	BRAND
+tropical	O
+paradise	O
+vitamin	O
+complex	O
+shower	PRODUCT
+gel	PRODUCT
+
+"	O
+el	BRAND
+corazon	BRAND
+,	O
+сыворотка	PRODUCT
+bali	MODEL
+spa	MODEL
+oil	MODEL
+"	O
+
+avon	BRAND
+помада	PRODUCT
+ультра	O
+крем	PRODUCT
+twinkle	O
+pink	O
+smp	O
+
+botavikos	BRAND
+skin	O
+care	O
+and	O
+aromatherapy	O
+weekend	O
+recovering	O
+hair	O
+mask	PRODUCT
+
+matrix	BRAND
+colorlast	O
+conditioner	PRODUCT
+
+shiseido	BRAND
+benefiance	O
+wrinkle	O
+smoothing	O
+contour	O
+serum	PRODUCT
+
+coco	BRAND
+organic	O
+oil	PRODUCT
+
+кисти	PRODUCT
+для	PRODUCT
+окрашивания	PRODUCT
+(	O
+3	CARDINAL
+шт	CARDINAL
+.	O
+в	O
+наборе)	O
+3	O
+piece	O
+color	O
+brush	O
+
+giorgio	BRAND
+armani	BRAND
+code	O
+pour	O
+homme	O
+edt	PRODUCT
+
+shiseido	BRAND
+tsutsu	O
+fude	O
+concealer	O
+brush	PRODUCT
+
+thalgo	BRAND
+cold	O
+cream	PRODUCT
+marine	O
+24h	O
+deeply	O
+nourishing	O
+body	O
+cream	PRODUCT
+
+tous	BRAND
+touch	O
+eau	CARDINAL
+de	CARDINAL
+toilette	CARDINAL
+
+nioxin	BRAND
+3d	O
+styling	O
+thickening	O
+spray	PRODUCT
+
+londa	BRAND
+professional	O
+color	O
+radiance	O
+leave-in	O
+conditioning	O
+spray	PRODUCT
+
+шампунь	PRODUCT
+tresemme	BRAND
+keratin	O
+smooth	O
+разглаживающий	O
+для	O
+волос	O
+400мл	CARDINAL
+
+guerlain	BRAND
+rouge	O
+g	O
+de	O
+guerlain	BRAND
+pearl	O
+glow	O
+case	PRODUCT
+
+тканевая	PRODUCT
+маска	PRODUCT
+для	PRODUCT
+ухода	PRODUCT
+за	PRODUCT
+порами	PRODUCT
+лица	PRODUCT
+'	O
+dr.	BRAND
+smart	BRAND
+anti-pore	MODEL
+clinic	MODEL
+'	O
+с	O
+древесным	O
+углем	O
+3666909	O
+
+комплимент	O
+от	O
+smashbox	BRAND
+помада	PRODUCT
+always	O
+on	O
+cream	O
+to	O
+matte	O
+lipstick	PRODUCT
+
+пузырьковая	O
+пенка	PRODUCT
+для	PRODUCT
+чувствительной	O
+кожи	PRODUCT
+[	O
+the	BRAND
+saem	BRAND
+]	O
+derma	MODEL
+plan	MODEL
+green	MODEL
+bubble	MODEL
+foam	MODEL
+cleanser	MODEL
+
+маска	PRODUCT
+для	PRODUCT
+волос	PRODUCT
+с	O
+маслом	O
+камелии	O
+kerasys	BRAND
+oriental	MODEL
+premium	MODEL
+treatment	O
+
+расческа	PRODUCT
+ikemoto	BRAND
+du-boa	MODEL
+damage	MODEL
+care	MODEL
+brush	MODEL
+для	PRODUCT
+поврежденных	PRODUCT
+волос	PRODUCT
+голубая	O
+
+insight	BRAND
+antioxidant	MODEL
+rejuvenating	O
+conditioner	PRODUCT
+
+w18080284044	O
+омолаживающая	O
+сыворотка	PRODUCT
+1952-60310	O
+розовый	O
+израиль	O
+ж	O
+os	O
+
+антиоксидантное	O
+масло	PRODUCT
+для	PRODUCT
+лица	PRODUCT
+schwanen	BRAND
+garten	BRAND
+antioxidant	O
+facial	O
+oil	O
+
+giorgio	BRAND
+armani	BRAND
+figuier	O
+eden	O
+eau	PRODUCT
+de	PRODUCT
+toilette	PRODUCT
+
+"	O
+mirrolla	BRAND
+эссенция	PRODUCT
+для	PRODUCT
+роста	PRODUCT
+волос	PRODUCT
+'фолиевая	O
+кислота',	O
+150	CARDINAL
+мл	CARDINAL
+"	O
+
+alfaparf	BRAND
+milano	O
+semi	O
+di	O
+lino	O
+scalp	O
+balancing	O
+low	O
+shampoo	PRODUCT
+
+tom	BRAND
+ford	BRAND
+noir	O
+de	O
+noir	O
+eau	PRODUCT
+de	PRODUCT
+parfum	PRODUCT
+
+r+co	BRAND
+control	O
+flexible	O
+paste	PRODUCT
+
+keune	BRAND
+care	O
+absolute	O
+volume	O
+shampoo	PRODUCT
+
+"my20110356315	O
+экспресс	O
+пилинг	PRODUCT
+для	PRODUCT
+пяток	PRODUCT
+sl-729	O
+белый	O
+корея,	O
+республ	O
+os"	O
+
+"	O
+гель	PRODUCT
+для	PRODUCT
+бритья	PRODUCT
+против	O
+раздрожений,	O
+l'oreal	BRAND
+,	O
+200мл	CARDINAL
+."	O
+
+маска	PRODUCT
+-	O
+пленка	PRODUCT
+очищающая	O
+eyenlip	BRAND
+pocket	O
+collagen	O
+active	O
+peel	O
+off	O
+pack	O
+25	CARDINAL
+гр	CARDINAL
+
+пенка	PRODUCT
+для	PRODUCT
+чувствительной	O
+кожи	PRODUCT
+с	O
+центеллой	O
+vt	BRAND
+cosmetics	BRAND
+cica	O
+mild	O
+foam	O
+cleanser	O
+
+слабокислотная	O
+энзимная	O
+пудра	PRODUCT
+с	O
+экстрактом	O
+центеллы	O
+cosrx	BRAND
+low	O
+ph	O
+centella	O
+cleansing	O
+powder	O
+
+трехшаговый	O
+набор	O
+для	O
+проблемной	O
+кожи	O
+cosrx	BRAND
+one	O
+step	O
+pimple	O
+clear	O
+kit	O
+
+la	BRAND
+florentina	BRAND
+soap	PRODUCT
+pomegranate	O
+and	O
+neroli	O
+
+"	O
+патрон	PRODUCT
+с	PRODUCT
+воском	PRODUCT
+системы	O
+roll-on	O
+(розовый),плотный,для	O
+чувст.кожи	O
+и	O
+жестких	O
+коротких	O
+волос	PRODUCT
+."	O
+
+bobbi	BRAND
+brown	BRAND
+smokey	O
+eye	O
+mascara	PRODUCT
+black	O
+
+bobbi	BRAND
+brown	BRAND
+conditioning	O
+brush	PRODUCT
+cleanser	O
+
+"	O
+natura	BRAND
+siberica	BRAND
+laboratoria	O
+супер	O
+омолаживающая	O
+золотая	O
+маска	PRODUCT
+для	PRODUCT
+лица	PRODUCT
+золото	O
+24	O
+карата,	O
+100	CARDINAL
+мл	CARDINAL
+"	O
+
+tom	O
+ford	O
+soleil	O
+blanc	O
+shimmering	O
+body	O
+oil	PRODUCT
+
+cosrx	BRAND
+one	O
+step	O
+original	O
+clear	O
+pad	O
+
+"платиновый	O
+блондин	O
+пастельный	O
+жемчужный	O
+крем	PRODUCT
+-	O
+краска	PRODUCT
+с	O
+гиалуроновой	O
+кислотой	O
+капус	O
+краска	PRODUCT
+для	PRODUCT
+волос	PRODUCT
+kapous	BRAND
+professional	O
+100	CARDINAL
+мл	CARDINAL
+.	O
+1390,	O
+№	O
+10,016"	O
+
+shiseido	BRAND
+expert	O
+sun	O
+protection	O
+face	O
+&	O
+body	O
+lotion	PRODUCT
+spf30	O
+
+"	O
+шампунь	PRODUCT
+против	PRODUCT
+перхоти	PRODUCT
+head&shoulders	BRAND
+'питательный	O
+уход',	O
+400	CARDINAL
+мл	CARDINAL
+1544407"	O
+
+domix	BRAND
+green	BRAND
+.	O
+средство	PRODUCT
+для	PRODUCT
+устранения	PRODUCT
+грибковых	PRODUCT
+поражений	PRODUCT
+ногтей	PRODUCT
+'стоп	O
+грибок'	O
+(	O
+18	CARDINAL
+мл	CARDINAL
+)	O
+109224	O
+
+lor.paris	BRAND
+шамп	PRODUCT
+.	O
+elseve	BRAND
+эксп.цв.фиол.	O
+200мл	CARDINAL
+
+"my20101460564	O
+бальзам	PRODUCT
+безалкогольный,	O
+250	CARDINAL
+мл	CARDINAL
+3876372	O
+мультиколор	O
+ро	O
+os"	O
+
+"	O
+nanoorganic	BRAND
+альгинатный	O
+бальзам	PRODUCT
+для	PRODUCT
+увеличения	O
+объема	O
+волос	PRODUCT
+,	O
+300	CARDINAL
+мл	CARDINAL
+новинка"	O
+
+insight	BRAND
+styling	O
+strong	O
+hold	O
+ecospray	O
+
+ollin	BRAND
+bionika	O
+шампунь	PRODUCT
+энергетический	O
+против	PRODUCT
+выпадения	PRODUCT
+волос	PRODUCT
+750мл	CARDINAL
+.	O
+
+sosu	BRAND
+foot	O
+peeling	O
+mask	PRODUCT
+-	O
+happy	O
+feet	O
+mint	O
+
+lancome	BRAND
+la	MODEL
+vie	MODEL
+est	MODEL
+belle	MODEL
+set	PRODUCT
+
+at	BRAND
+шампунь	PRODUCT
+против	PRODUCT
+перхоти	PRODUCT
+400мл	CARDINAL
+
+гель	PRODUCT
+для	PRODUCT
+бритья	PRODUCT
+и	PRODUCT
+умывания	PRODUCT
+серии	O
+barberl	O
+
+anew	MODEL
+маска	PRODUCT
+-	O
+пленка	PRODUCT
+д/лица	PRODUCT
+очищ.	O
+и	O
+сияние	O
+
+краска	PRODUCT
+д	PRODUCT
+волос	PRODUCT
+dark	MODEL
+auburn	MODEL
+3.6	O
+
+туалетная	PRODUCT
+вода	PRODUCT
+для	O
+мужчин	O
+vent	MODEL
+d'	MODEL
+avent	MODEL
+
+"	O
+маска	PRODUCT
+для	PRODUCT
+лица	PRODUCT
+garnier	BRAND
+тканевая	PRODUCT
+,	O
+увлажнение	O
++	O
+аква-бомба,	O
+1	CARDINAL
+шт	CARDINAL
+."	O
+
+"	O
+пакет	PRODUCT
+подарочный	PRODUCT
+'	O
+glam	BRAND
+team	BRAND
+',	O
+размер	O
+s	ORDINAL
+"	O
+
+vitalise	O
+cleanser	O
+250	CARDINAL
+ml	CARDINAL
+
+лак	PRODUCT
+для	PRODUCT
+волос	PRODUCT
+taft	BRAND
+happy	O
+winter	O
+антистатик	O
+эффект	O
+мегафиксация	O
+225мл	CARDINAL
+
+"	O
+in'garden	BRAND
+,	O
+праймер	PRODUCT
+nail	MODEL
+prep	MODEL
+system	MODEL
+,	O
+11	CARDINAL
+мл	CARDINAL
+"	O
+
+at	BRAND
+всесторонний	MODEL
+уход	MODEL
+маска	PRODUCT
+д/волос	PRODUCT
+
+huxley	BRAND
+essence:	O
+brightly	O
+ever	O
+after	O
+
+at	BRAND
+спрей	PRODUCT
+д/волос	PRODUCT
+блестящий	MODEL
+эффект	MODEL
+
+manefit	BRAND
+beauty	O
+planner	O
+lavender	MODEL
+wrinkle	MODEL
+and	MODEL
+lifting	MODEL
+mask	PRODUCT
+
+шампунь	PRODUCT
+clear	BRAND
+vita	O
+abe	O
+защита	O
+от	O
+выпадения	O
+волос	O
+400мл	CARDINAL
+
+nivea	BRAND
+пена	PRODUCT
+для	PRODUCT
+бритья	PRODUCT
+для	O
+чувствительной	O
+кожи	O
+успокаивающая	O
+
+краситель	PRODUCT
+сухой	O
+водорастворимый	O
+caramella	O
+ежевика	O
+5	CARDINAL
+гр	CARDINAL
+5350563	O
+
+"женский	O
+станок	PRODUCT
+spa	BRAND
+4	BRAND
+me	BRAND
+для	PRODUCT
+бритья	PRODUCT
+одноразовый	PRODUCT
+,	O
+2	O
+лезвия,	O
+5шт	CARDINAL
+"	O
+
+at	BRAND
+спрей	PRODUCT
+д/волос	PRODUCT
+термозащита	MODEL
+
+"	O
+estel	BRAND
+,	O
+крем-бальзам	PRODUCT
+curex	MODEL
+therapy	MODEL
+для	PRODUCT
+сухих	PRODUCT
+волос	PRODUCT
+,	O
+250	CARDINAL
+мл	CARDINAL
+"	O
+
+помада	PRODUCT
+для	PRODUCT
+губ	PRODUCT
+space	MODEL
+star	MODEL
+/	O
+lipstick	O
+spa	O
+
+carven	BRAND
+le	O
+parfum	O
+edp	PRODUCT
+
+innisfree	BRAND
+refreshing	O
+cleansing	O
+wipes	PRODUCT
+with	O
+apple	O
+seed	O
+
+green	BRAND
+mama	BRAND
+перечная	O
+мята	O
+и	O
+шалфей	O
+дезодорант	PRODUCT
+для	PRODUCT
+ног	PRODUCT
+
+комплимент	O
+от	O
+cacharel	BRAND
+сумка	PRODUCT
+
+kerastase	BRAND
+nutritive	O
+magistral	O
+creme	PRODUCT
+magistral	O
+
+освежающие	O
+тканевые	PRODUCT
+маски	PRODUCT
+it's	BRAND
+skin	BRAND
+the	MODEL
+fresh	MODEL
+mask	MODEL
+sheet	MODEL
+tea	MODEL
+tree	MODEL
+-	O
+чайное	O
+дерево	O
+
+"	O
+натурмед	BRAND
+'желтый'	O
+скипидарный	PRODUCT
+р-р	PRODUCT
+с	O
+экстрактами	O
+naturmed	O
+38	O
+трав	O
+0,5л	CARDINAL
+"	O
+
+маска	PRODUCT
+sunsmile	BRAND
+black	O
+очищающая	O
+с	O
+коричневым	O
+сахаром	O
+обновляющая	O
+и	O
+увлажняющая	O
+(	O
+1	CARDINAL
+шт	CARDINAL
+)	O
+
+мужской	O
+шампунь	PRODUCT
+для	O
+волос	O
+schauma	BRAND
+сила	O
+и	O
+объем	O
+с	O
+хмелем	O
+380мл	CARDINAL
+
+маска	PRODUCT
+для	PRODUCT
+лица	PRODUCT
+'mung	O
+bean	O
+mask'	O
+с	O
+зелены	O
+
+кольцо	BRAND
+'angelica/анжелика'	O
+
+keune	BRAND
+1922	O
+care	O
+classic	O
+gel	PRODUCT
+
+скраб	PRODUCT
+для	PRODUCT
+тела	PRODUCT
+weis	BRAND
+'	O
+лаванда	O
+'	O
+280г	CARDINAL
+
+"комплимент	O
+от	O
+five	BRAND
+elements	BRAND
+маска	PRODUCT
+для	PRODUCT
+лица	PRODUCT
+'красота	O
+за	O
+5	O
+минут',	O
+8	CARDINAL
+мл	CARDINAL
+"	O
+
+маска	PRODUCT
+-	O
+уход	PRODUCT
+для	PRODUCT
+волос	PRODUCT
+tresemme	BRAND
+'	O
+возрождающая	O
+'	O
+с	O
+протеином	O
+25мл	CARDINAL
+
+лак	PRODUCT
+для	PRODUCT
+ногтей	PRODUCT
+extreme	MODEL
+-	O
+green	O
+23	O
+
+легкий	O
+успокаивающий	O
+флюид	PRODUCT
+для	PRODUCT
+проблемной	PRODUCT
+кожи	PRODUCT
+cosrx	BRAND
+ac	O
+collection	O
+calming	O
+liquid	O
+mild	O
+
+краска	PRODUCT
+д	O
+волос	PRODUCT
+medium	O
+ash	O
+blonde	O
+8.1	O
+
+l'oreal	PRODUCT
+роскошь	O
+питания	O
+интенсивный	O
+питательный	O
+уход	PRODUCT
+вокруг	PRODUCT
+глаз	PRODUCT
+
+shiseido	BRAND
+waso	O
+color-smart	O
+day	O
+moisturizer	PRODUCT
+oil-free	O
+spf	O
+30	O
+
+n.1	BRAND
+dress	O
+up	O
+powder	PRODUCT
+
+lancome	BRAND
+miracle	O
+edp	PRODUCT
+
+g	O
+ivenchy	BRAND
+ombre	O
+interdite	O
+creamy	O
+eyeshadow	PRODUCT
+
+w18100444946	O
+маска	PRODUCT
+для	PRODUCT
+лица	PRODUCT
+1952-60333	O
+золотой	O
+израиль	O
+ж	O
+os	O
+
+парфюмированый	O
+защитный	O
+спрей	PRODUCT
+для	PRODUCT
+волос	PRODUCT
+разглаживающий;	O
+смягчающий	O
+images	O
+beauty	O
+hair	O
+care	O
+nourishin	O
+
+payot	BRAND
+corps	O
+baume	PRODUCT
+de	O
+douche	O
+reconfortant	O
+
+hello	BRAND
+ganic	BRAND
+маска	PRODUCT
+тканевая	PRODUCT
+д/глубокого	O
+увлажнения	O
+кожи	O
+23мл	CARDINAL
+
+age	O
+control	O
+face	O
+lotion.	O
+лосьон	PRODUCT
+для	PRODUCT
+лица	PRODUCT
+.	O
+омолаживающий.	O
+112024	O
+
+сменные	O
+кассеты	PRODUCT
+gillette	BRAND
+fusion	MODEL
+4	CARDINAL
+картриджа	CARDINAL
+1244931	O
+
+ультраувлажняющая	O
+капсульная	O
+маска	PRODUCT
+vt	BRAND
+cosmetics	BRAND
+super	O
+hyalon	O
+capsule	O
+mask	O
+
+sisley	BRAND
+velvet	O
+nourishing	O
+cream	PRODUCT
+with	O
+saffron	O
+flowers	O
+
+мусс	PRODUCT
+tresemme	BRAND
+touchable	O
+hold	O
+подвижная	O
+фиксация	O
+для	PRODUCT
+укладки	PRODUCT
+волос	PRODUCT
+200мл	CARDINAL
+
+"	O
+tan	BRAND
+master	BRAND
+,	O
+маска	PRODUCT
+для	PRODUCT
+окрашенных	PRODUCT
+волос	PRODUCT
+orix	MODEL
+,	O
+500	CARDINAL
+мл	CARDINAL
+"	O
+
+"	O
+dona	BRAND
+jerdona	BRAND
+,	O
+средство	PRODUCT
+для	PRODUCT
+ногтей	PRODUCT
+calcium	O
+milk	O
+enamel,	O
+18	CARDINAL
+мл	CARDINAL
+"	O
+
+"виола	O
+виттрока	O
+фламенко	O
+черная	O
+f1,	O
+10	CARDINAL
+шт	CARDINAL
+.	O
+farao	O
+итальянские	O
+сорта	O
+и	O
+гибриды"	O
+
+catrice	BRAND
+pro	BRAND
+next-gen	MODEL
+nudes	MODEL
+slim	O
+eyeshadow	PRODUCT
+palette	PRODUCT
+
+clarins	BRAND
+hydrating	O
+gentle	O
+foaming	O
+cleanser	O
+
+ainoa	O
+hydration	O
+recovery	O
+маска	PRODUCT
+д/увлажнения	O
+150мл	CARDINAL
+
+сертификат	PRODUCT
+на	O
+3	CARDINAL
+000	CARDINAL
+в	O
+krygina	BRAND
+studio	BRAND
+
+с	O
+ухой	PRODUCT
+шампунь	PRODUCT
+original	O
+
+w20110356457	O
+пудра	PRODUCT
+для	PRODUCT
+умывания	PRODUCT
+75	CARDINAL
+мл	CARDINAL
+vc-ep-vs-75	O
+белый	O
+россия	O
+уни	O
+os	O
+
+"	O
+шампунь	PRODUCT
+для	O
+придания	O
+объема	O
+из	O
+серии	O
+шампуни	O
+kapous	O
+studio	O
+1	CARDINAL
+000	CARDINAL
+мл	CARDINAL
+.	O
+2190,"	O
+
+cutrin	BRAND
+aurora	MODEL
+color	O
+care	O
+silver	O
+treatment	O
+
+маска	PRODUCT
+для	PRODUCT
+лица	PRODUCT
+bonny	BRAND
+hill	BRAND
+'	O
+avocado	O
+'	O
+с	O
+маслом	O
+авокадо	O
+23г	CARDINAL
+
+oribe	BRAND
+curl	O
+shaping	O
+mousse	PRODUCT
+
+vivienne	BRAND
+sabo	BRAND
+rouge	PRODUCT
+a	O
+levres	O
+merci	O
+
+l'oreal	BRAND
+volumissime	O
+royale	O
+
+крем	PRODUCT
+для	O
+рук	O
+надежная	O
+защита	O
+серии	O
+pro-р	O
+
+selfie	O
+queen	O
+foundation	PRODUCT
+out	O
+of	O
+candy	O
+
+тканевая	PRODUCT
+маска	PRODUCT
+для	O
+интенсивного	O
+увлажнения	O
+dr.jart+	BRAND
+vital	O
+hydra	O
+solution	O
+
+lumene	BRAND
+nordic	MODEL
+chic	MODEL
+cover	O
+stick	O
+
+"	O
+mirrolla	BRAND
+шампунь	PRODUCT
+для	O
+волос	O
+'сульсен	O
+форте'	O
+с	O
+кетоконазолом,	O
+против	PRODUCT
+перхоти	PRODUCT
+,	O
+250	CARDINAL
+мл	CARDINAL
+"	O
+
+ампула	PRODUCT
+с	O
+ниацинамидом	PRODUCT
+против	O
+пигментации	O
+manyo	BRAND
+whitening	O
+source	O
+ampoule	O
+
+nyx	BRAND
+professional	O
+make	O
+up	O
+california	O
+beamin'	O
+face	O
+&	O
+body	O
+bronzer	PRODUCT
+
+ollin	BRAND
+крем	PRODUCT
+-	O
+спрей	PRODUCT
+д/волос	PRODUCT
+12в1	O
+несмываемый	O
+250мл	CARDINAL
+
+"	O
+schwarzkopf	BRAND
+igora	O
+royal	O
+лосьон	PRODUCT
+-	O
+окислитель	PRODUCT
+9%	O
+на	O
+масляной	O
+основе,	O
+60	CARDINAL
+мл	CARDINAL
+."	O
+
+holika	BRAND
+holika	BRAND
+daily	O
+garden	O
+goheung	O
+citron	O
+fresh	O
+cleansing	O
+foam	PRODUCT
+
+тканево-гелевая	O
+маска	PRODUCT
+для	PRODUCT
+сужения	PRODUCT
+пор	PRODUCT
+i'm	BRAND
+sorry	BRAND
+for	BRAND
+my	BRAND
+skin	BRAND
+jelly	O
+mask	O
+-	O
+pore	MODEL
+care	MODEL
+
+[038013]	O
+пилинг	PRODUCT
+tmc	O
+3+action	O
+флакон	O
+6мл	CARDINAL
+
+lion	BRAND
+reduce	O
+bad	O
+breath	O
+mouthwash	PRODUCT
+japanese	O
+cherry	O
+blossom	O
+
+"матирующая	O
+пудра	PRODUCT
+для	PRODUCT
+лица	PRODUCT
+'meowmazing',	O
+оттенок	O
+светлый	O
+беж	O
+4963538"	O
+
+"	O
+крем	PRODUCT
+-	O
+краска	PRODUCT
+для	PRODUCT
+волос	PRODUCT
+garnier	BRAND
+color	MODEL
+naturals	MODEL
+6.34	O
+карамель,	O
+1шт	CARDINAL
+"	O
+
+cosrx	BRAND
+стикеры	PRODUCT
+локал.	O
+от	PRODUCT
+прыщей	PRODUCT
+
+шампунь	PRODUCT
+для	O
+придания	O
+объема	O
+ok	BRAND
+beauty	BRAND
+clarifying	O
+&	O
+volumizing	O
+
+"	O
+ножницы	PRODUCT
+маникюрные	O
+для	PRODUCT
+ногтей	PRODUCT
+широкие	O
+загнутые	O
+9,5см	CARDINAL
+серебр	O
+florans	O
+3327872"	O
+
+"тканевая	O
+маска	PRODUCT
+осветляющая	O
+tony	BRAND
+moly	BRAND
+i'm	O
+lemon	O
+mask	O
+с	O
+экстрактом	O
+лимона,	O
+21	CARDINAL
+мл	CARDINAL
+4252651"	O
+
+alfaparf	BRAND
+milano	O
+semi	O
+di	O
+lino	O
+scalp	O
+calming	O
+micellar	O
+low	O
+shampoo	PRODUCT
+
+"	O
+пудра	PRODUCT
+для	PRODUCT
+лица	PRODUCT
+eveline	BRAND
+natural	O
+bronzing,	O
+бронзирующая,	O
+тон	O
+50	O
+5083553"	O
+
+charles	BRAND
+worthington	BRAND
+grow	O
+strong	O
+activator	O
+tonic	PRODUCT
+
+энзимная	O
+пенка	PRODUCT
+для	PRODUCT
+умывания	PRODUCT
+ciracle	BRAND
+enzyme	O
+foam	O
+cleanser	O
+
+очищающий	O
+мусс	PRODUCT
+для	PRODUCT
+умывания	PRODUCT
+с	O
+бифидобактериями	O
+village	BRAND
+11	BRAND
+factory	BRAND
+calming	O
+bio	O
+marshmallow	O
+mousse	O
+cleanser	O
+
+tom	BRAND
+ford	BRAND
+soleil	O
+blanc	O
+eau	PRODUCT
+de	PRODUCT
+parfum	PRODUCT
+
+vieno	BRAND
+спрей	PRODUCT
+многофункциональный	O
+без	O
+отдушки	O
+200мл	CARDINAL
+
+"	O
+constant	BRAND
+delight	BRAND
+,	O
+лосьон	PRODUCT
+против	PRODUCT
+выпадения	PRODUCT
+волос	PRODUCT
+hair	O
+men	O
+care"	O
+
+united	BRAND
+colors	BRAND
+of	BRAND
+benetton	BRAND
+colors	O
+blue	O
+eau	PRODUCT
+de	PRODUCT
+toilette	PRODUCT
+
+шампунь	PRODUCT
+для	O
+волос	O
+clear	BRAND
+men	O
+icy	O
+ocean	O
+мужской	O
+380	CARDINAL
+мл	CARDINAL
+
+"	O
+londa	BRAND
+color	O
+radiance	O
+шампунь	PRODUCT
+для	PRODUCT
+окрашенных	PRODUCT
+волос	PRODUCT
+,	O
+1000	CARDINAL
+мл	CARDINAL
+."	O
+
+nmask02250	O
+isb	BRAND
+black	O
+passion	O
+02	O
+маска	PRODUCT
+энергетическая	O
+и	O
+восстанавливающая	O
+с	O
+аргановым	O
+маслом	O
+250	CARDINAL
+мл	CARDINAL
+
+"	O
+шампунь	PRODUCT
+для	PRODUCT
+придания	PRODUCT
+объема	PRODUCT
+,	O
+250	CARDINAL
+мл	CARDINAL
+.	O
+invigo	MODEL
+volume	O
+boost	O
+wella	BRAND
+"	O
+
+clinique	BRAND
+superprimer	O
+universal	O
+face	O
+primer	PRODUCT
+
+ополаскиватель	PRODUCT
+для	PRODUCT
+полости	PRODUCT
+рта	PRODUCT
+серии	O
+exp	O
+
+clinique	BRAND
+superdefense	O
+сс	O
+cream	O
+spf	O
+30	O
+суперзащитный	O
+корректирующий	O
+крем	PRODUCT
+
+маска	PRODUCT
+для	PRODUCT
+сна	PRODUCT
+'pretty	O
+sleep'	O
+4766068	O
+
+"	O
+краситель	PRODUCT
+пищевой	O
+гелевый	O
+kreda	O
+natural	O
+розовый,	O
+20	CARDINAL
+г	CARDINAL
+5389793"	O
+
+травяной	PRODUCT
+сбор	PRODUCT
+№1	O
+herbal	O
+tea	O
+broncho	MODEL
+
+caudalie	BRAND
+resveratrol	O
+firming	O
+night	O
+cream	PRODUCT
+
+smashbox	BRAND
+photo	O
+filter	O
+powder	PRODUCT
+foundation	O
+
+secret	BRAND
+key	BRAND
+let	O
+me	O
+know	O
+cc	O
+cream	PRODUCT
+spf	O
+50+	O
+ра+++	O
+
+eva	BRAND
+mosaic	BRAND
+ideal	O
+face	O
+glow	O
+
+кондиционер	PRODUCT
+olaplex	BRAND
+no.5	O
+'система	O
+защиты	O
+волос'	O
+bond	O
+maintenance	O
+
+estee	BRAND
+lauder	BRAND
+revitalizing	O
+supreme	O
+plus	O
+global	O
+anti-aging	O
+cell	O
+power	O
+crme	PRODUCT
+
+очищающий	O
+гоммаж	PRODUCT
+для	PRODUCT
+лица	PRODUCT
+серии	O
+oxiology	MODEL
+
+"fibrapost	O
+plus	O
+-	O
+штифты	PRODUCT
+стекловолоконные,	O
+светопроводящие,	O
+рентгеноконтрастные,	O
+набор"	O
+
+очищающие	PRODUCT
+полоски	PRODUCT
+пропеллер	BRAND
+pore	MODEL
+vacuum	MODEL
+для	PRODUCT
+носа	PRODUCT
+с	O
+активированным	O
+углем	O
+6	CARDINAL
+шт	CARDINAL
+
+tonymoly	BRAND
+маска	PRODUCT
+д/лица	PRODUCT
+тканевая	PRODUCT
+освежающая	O
+с	O
+экстрактом	O
+огурц	O
+
+avon	BRAND
+помада	PRODUCT
+-	O
+кушон	PRODUCT
+gd005	O
+
+estee	BRAND
+lauder	BRAND
+essential	O
+on	O
+the	O
+go	O
+set	O
+
+"	O
+holy	BRAND
+land	BRAND
+,	O
+лосьон	PRODUCT
+для	PRODUCT
+лица	PRODUCT
+super,	O
+250	CARDINAL
+мл	CARDINAL
+"	O
+
+"	O
+спрей	PRODUCT
+для	PRODUCT
+волос	PRODUCT
+lee	BRAND
+stafford	BRAND
+shine	O
+head,	O
+для	O
+блеска,	O
+50	CARDINAL
+мл	CARDINAL
+"	O
+
+estel	BRAND
+набор	O
+curex	MODEL
+sunflower	O
+
+крем	PRODUCT
+day	MODEL
+dream	MODEL
+protective	MODEL
+cream	O
+
+botavikos	BRAND
+skin	O
+care	O
+and	O
+aroma	O
+therapy	O
+sweet	O
+fennel	O
+oil	O
+
+комплимент	O
+от	O
+lancome	BRAND
+набор	O
+genifique	O
+сыворотка	PRODUCT
+для	PRODUCT
+лица	PRODUCT
+7	CARDINAL
+мл	CARDINAL
++	O
+сыворотка	PRODUCT
+для	PRODUCT
+глаз	PRODUCT
+5	CARDINAL
+мл	CARDINAL
+
+"набор	O
+'girl,	O
+it's	O
+avocato',	O
+скраб	PRODUCT
+для	PRODUCT
+тела	PRODUCT
+,	O
+бурлящий	PRODUCT
+шар	PRODUCT
+5032953"	O
+
+отбеливающая	O
+тканевая	PRODUCT
+маска	PRODUCT
+manyo	BRAND
+whitening	O
+source	O
+ampoule	O
+mask	O
+
+mbr	BRAND
+biochange	O
+cell-power	O
+nail	O
+oil	PRODUCT
+
+librederm	BRAND
+seracin	O
+sebo-regulating	O
+mask	PRODUCT
+with	O
+white	O
+and	O
+green	O
+clay	O
+for	O
+oily	O
+skin	O
+
+yves	BRAND
+saint	BRAND
+laurent	BRAND
+black	MODEL
+opium	MODEL
+set	O
+
+essie	BRAND
+apricot	O
+nail	O
+and	O
+cuticle	O
+oil	PRODUCT
+
+комплимент	O
+от	O
+make	BRAND
+up	BRAND
+for	BRAND
+ever	BRAND
+миниатюра	O
+тонального	O
+средства	O
+ultra	O
+hd	O
+foundation	PRODUCT
+y245	O
+5	CARDINAL
+мл	CARDINAL
+
+dior	BRAND
+addict	O
+eau	PRODUCT
+fraiche	PRODUCT
+
+kapous	BRAND
+кремовый	O
+шелк	PRODUCT
+д/волос	PRODUCT
+150мл	CARDINAL
+
+"	O
+лосьон	PRODUCT
+от	PRODUCT
+прыщей	PRODUCT
+sendo	BRAND
+,	O
+антибактериальный,	O
+250	CARDINAL
+мл	CARDINAL
+5145388"	O
+
+intense	O
+smooth	O
+mask	PRODUCT
+
+by	O
+kilian	BRAND
+rolling	O
+in	O
+love	O
+eau	PRODUCT
+de	PRODUCT
+parfum	PRODUCT
+
+ermano	BRAND
+scervino	BRAND
+ermanno	O
+scervino	O
+eau	PRODUCT
+de	PRODUCT
+parfum	PRODUCT
+
+acqua	BRAND
+di	BRAND
+parma	BRAND
+blu	MODEL
+mediterraneo	MODEL
+arancia	O
+di	O
+capri	O
+edt	PRODUCT
+
+revolution	BRAND
+makeup	BRAND
+forever	O
+flawless	O
+eyeshadow	PRODUCT
+palette:	O
+constellation	O
+
+бальзам	PRODUCT
+ополаскиватель	PRODUCT
+восстановление	O
+укрепляющий	O
+для	PRODUCT
+секущихся	PRODUCT
+и	PRODUCT
+очень	PRODUCT
+поврежденных	PRODUCT
+волос	PRODUCT
+fructis	BRAND
+sos	O
+мл	O
+
+novexpert	BRAND
+velvety	O
+hydro-biotic	O
+scrub	PRODUCT
+
+"	O
+спрей	PRODUCT
+-	O
+кондиционер	PRODUCT
+для	PRODUCT
+волос	PRODUCT
+valori	BRAND
+professional	MODEL
+термозащита	O
+,	O
+насыщенный	O
+блеск	O
+200мл	CARDINAL
+"	O
+
+"	O
+rocknail	BRAND
+,	O
+камуфлирующая	O
+база	PRODUCT
+№80	O
+nude	O
+blush	O
+(	O
+10	CARDINAL
+мл	CARDINAL
+.)"	O
+
+"увлажняющая	O
+маска	PRODUCT
+-	O
+пленка	PRODUCT
+shimerike	O
+moist-mask	O
+/	O
+шимерике,	O
+12	CARDINAL
+мл	CARDINAL
+"	O
+
+kenzo	BRAND
+ca	O
+cent	O
+beau	O
+eau	PRODUCT
+de	PRODUCT
+toilette	PRODUCT
+
+"гелевый	O
+дезодорант	PRODUCT
+-	O
+антиперспирант	PRODUCT
+gillette	BRAND
+'cool	O
+wave',	O
+75	CARDINAL
+мл	CARDINAL
+."	O
+
+byredo	BRAND
+bal	O
+d`afrique	O
+hand	O
+cream	PRODUCT
+
+vivienne	BRAND
+sabo	BRAND
+amulette	O
+palette	O
+d'ombres	O
+
+nina	BRAND
+ricci	BRAND
+nina	O
+rouge	O
+set	O
+
+кусачки	PRODUCT
+для	PRODUCT
+маникюра	PRODUCT
+2	O
+пружины	O
+10см(7мм)	CARDINAL
+матовое	O
+серебро	O
+florans	BRAND
+3327889	O
+
+очищающий	O
+бальзам	PRODUCT
+с	O
+инжиром	O
+i'm	BRAND
+from	BRAND
+fig	O
+cleansing	O
+balm	O
+
+спрей	PRODUCT
+для	O
+интенсивного	O
+восстановления	O
+волос	PRODUCT
+intense	O
+reconstruction	O
+
+pigeon	BRAND
+hand	O
+and	O
+mouth	O
+wet	PRODUCT
+tissues	PRODUCT
+70	CARDINAL
+
+"my20091607279	O
+пилинг	PRODUCT
+для	PRODUCT
+лица	PRODUCT
+,шеи	O
+и	O
+декольте	O
+4810151025274	O
+мультико	O
+os"	O
+
+гель	PRODUCT
+-	O
+пилинг	PRODUCT
+fraijour	BRAND
+с	O
+40	O
+растительными	O
+экстрактами	O
+
+giorgio	BRAND
+armani	BRAND
+power	O
+fabric	O
+
+pupa	BRAND
+eyebrow	O
+definition	O
+cream	PRODUCT
+
+"hair	O
+action	O
+anti-chute	O
+(облысение,	O
+стимуляция	O
+роста	O
+волос),	O
+mesoline	BRAND
+(мезолайн),	O
+5	CARDINAL
+мл	CARDINAL
+"	O
+
+consly	BRAND
+крем	PRODUCT
+д/	O
+проблемной	PRODUCT
+кожи	PRODUCT
+с	O
+экстрактом	O
+чайного	O
+дерева	O
+70	O
+
+guerlain	BRAND
+mon	O
+guerlain	O
+shower	PRODUCT
+gel	PRODUCT
+
+набор	O
+'светлый	O
+тон'	O
+eye	O
+&	O
+brow	O
+palette	PRODUCT
+bombshell	O
+
+holika	BRAND
+holika	BRAND
+ampoule	O
+essence	O
+mask	PRODUCT
+sheet	O
+hyaluronic	O
+acid	O
+
+"	O
+guerlain	BRAND
+гель	PRODUCT
+д/бровей	PRODUCT
+mad	O
+eyes	O
+brow	O
+framer	O
+2,5мл	CARDINAL
+01	O
+светлый"	O
+
+cleanser	O
+fluid	O
+proteins	O
+флюид	PRODUCT
+для	PRODUCT
+умывания	PRODUCT
+-	O
+true	BRAND
+alchemy	BRAND
+
+воск	PRODUCT
+wella	BRAND
+shockwaves	O
+indie	O
+wax	O
+для	O
+волос	O
+75мл	CARDINAL
+
+сигаретный	PRODUCT
+табак	PRODUCT
+mac	BRAND
+baren	BRAND
+-	O
+grape	MODEL
+choice	MODEL
+(	O
+40	CARDINAL
+гр	CARDINAL
+)	O
+
+cutrin	BRAND
+muoto	MODEL
+heat	O
+protection	O
+
+увлажняющие	O
+тканевые	PRODUCT
+маски	PRODUCT
+для	PRODUCT
+лица	PRODUCT
+mizon	BRAND
+joyful	MODEL
+time	MODEL
+essence	O
+mask	O
+-	O
+strawberry	O
+-	O
+клубника	O
+
+la	BRAND
+florentina	BRAND
+shower	PRODUCT
+gel	PRODUCT
+lavender	O
+
+"	O
+сonstant	BRAND
+delight	BRAND
+,	O
+крем	PRODUCT
+-	O
+скраб	PRODUCT
+для	PRODUCT
+кожи	PRODUCT
+головы	PRODUCT
+detox,	O
+100	CARDINAL
+мл	CARDINAL
+"	O
+
+премиальная	O
+успокаивающая	O
+шелковая	O
+маска	PRODUCT
+dr.althea	BRAND
+premium	O
+essential	O
+skin	O
+conditioner	O
+silk	O
+mask	O
+
+"	O
+dizao	BRAND
+,	O
+улитка,	O
+маска	PRODUCT
+для	PRODUCT
+лица	PRODUCT
+,	O
+28	CARDINAL
+гр	CARDINAL
+"	O
+
+tigi	BRAND
+bed	O
+head	O
+urban	O
+anti+dotes	O
+resurrection	O
+маска	PRODUCT
+для	PRODUCT
+сильно	PRODUCT
+поврежденных	PRODUCT
+волос	PRODUCT
+уровень	O
+3	O
+200	CARDINAL
+мл	CARDINAL
+
+s833	O
+шелк	PRODUCT
+голубой	O
+подкладочный	O
+dior	BRAND
+
+резервирующий	O
+состав	O
+по	O
+шелку	O
+18мл	CARDINAL
+зхк	O
+decola	BRAND
+несмываемый	O
+серебро	O
+6403966	O
+4105458	O
+
+"	O
+concept	BRAND
+,	O
+бальзам	PRODUCT
+оттеночный	PRODUCT
+арктический	O
+блонд,	O
+15	CARDINAL
+мл	CARDINAL
+"	O
+
+footworks	BRAND
+маска	PRODUCT
+д/ног	PRODUCT
+с	MODEL
+глин.	MODEL
+и	MODEL
+эк.	MODEL
+лав.	MODEL
+
+sammy	BRAND
+beauty	BRAND
+firming	O
+body	O
+cream	PRODUCT
+без	O
+коробки	O
+
+туалетная	PRODUCT
+вода	PRODUCT
+для	O
+мужчин	O
+faberlic	BRAND
+spor	O
+
+"	O
+пенка	PRODUCT
+для	PRODUCT
+умывания	PRODUCT
+laboratorium	BRAND
+для	PRODUCT
+сухой	PRODUCT
+кожи	PRODUCT
+,	O
+150	CARDINAL
+мл	CARDINAL
+"	O
+
+avon	BRAND
+помада	PRODUCT
+'ультра'	O
+крем	O
+pink	O
+dream	O
+smp	O
+
+bobbi	BRAND
+brown	BRAND
+vitamin	O
+enriched	O
+face	O
+base	PRODUCT
+
+desigual	BRAND
+fresh	O
+festival	O
+eau	PRODUCT
+de	PRODUCT
+toilette	PRODUCT
+
+fat	MODEL
+breaking	MODEL
+set	MODEL
+cryo	MODEL
+sugar	O
+scrub	PRODUCT
+
+corine	BRAND
+de	BRAND
+farme	BRAND
+bio	O
+mousse	O
+micellaire	O
+dmaquillante	O
+cocoon	O
+
+avon	BRAND
+помада	PRODUCT
+-	O
+кушон	PRODUCT
+pillowy	O
+pink	O
+
+крем	PRODUCT
+для	PRODUCT
+выпрямления	PRODUCT
+волос	PRODUCT
+style	O
+perfetto	O
+dazzling	O
+straightening	O
+cream	O
+kaaral	BRAND
+250	CARDINAL
+мл	CARDINAL
+
+"	O
+бальзам	PRODUCT
+для	PRODUCT
+тела	PRODUCT
+nivea	BRAND
+sos,	O
+восстанавливающий,	O
+250	CARDINAL
+мл	CARDINAL
+"	O
+
+dimensions	O
+de	O
+chanel	BRAND
+
+"комплимент	O
+от	O
+gourmandise	BRAND
+натуральное	O
+мыло	PRODUCT
+,	O
+100	CARDINAL
+г	CARDINAL
+"	O
+
+dior	BRAND
+j`adore	MODEL
+
+lancome	BRAND
+l'absolu	O
+lacquer	PRODUCT
+
+двухступенчатая	O
+ампульная	O
+маска	PRODUCT
+для	PRODUCT
+восстановления	PRODUCT
+кожи	PRODUCT
+dr.	BRAND
+althea	BRAND
+recovery	O
+solution	O
+2	O
+step	O
+mask	O
+
+s+miracle	BRAND
+collagen	MODEL
+essence	MODEL
+mask	PRODUCT
+
+жид.	O
+пом.	PRODUCT
+д/г	O
+матов.	O
+одерж.	O
+passion-it	O
+
+mexx	BRAND
+black	O
+man	O
+eau	PRODUCT
+de	PRODUCT
+toilette	PRODUCT
+
+объемная	O
+тушь	PRODUCT
+'неизменный	O
+черный'	O
+/	O
+volu	O
+
+revolution	BRAND
+makeup	BRAND
+32	O
+ultra	O
+eyeshadows	PRODUCT
+:	O
+flawless	O
+2	O
+
+gourmandise	BRAND
+savon	O
+parfume	PRODUCT
+mandarine	O
+cedre	O
+
+gosh	BRAND
+macadamia	O
+oil	O
+hair	O
+conditioner	PRODUCT
+
+"	O
+бальзам	PRODUCT
+для	PRODUCT
+окраш.	O
+волос	PRODUCT
+с	O
+рисовыми	O
+протеинами	O
+и	O
+экстрактом	O
+женьшеня,	O
+1000	CARDINAL
+мл	CARDINAL
+.	O
+studio	BRAND
+kapous	BRAND
+"	O
+
+резинка	PRODUCT
+для	PRODUCT
+волос	PRODUCT
+leo	O
+
+mbr	BRAND
+biochange	O
+beta-enzyme	O
+exfoliator	PRODUCT
+
+botavikos	BRAND
+moisturizing	O
+hair	PRODUCT
+balsam	PRODUCT
+hydra	O
+
+mythologic	O
+mineral	O
+mask	PRODUCT
+70	CARDINAL
+ml	CARDINAL
+
+origins	BRAND
+original	MODEL
+skin	MODEL
+essence	MODEL
+lotion	PRODUCT
+with	O
+dual	O
+ferment	O
+complex	O
+
+unicorn	O
+shimmer	O
+oil	PRODUCT
+rainbow	O
+new	O
+
+fresh	BRAND
+line	BRAND
+tea	O
+blossom	O
+hand	O
+&	O
+nail	O
+cream	PRODUCT
+
+маска	PRODUCT
+для	PRODUCT
+лица	PRODUCT
+тканевая	PRODUCT
+extra	O
+soothing	O
+e	O
+
+charles	BRAND
+worthington	BRAND
+radiance	O
+restore	O
+charcoal	O
+conditioner	PRODUCT
+
+крем	PRODUCT
+-	O
+сыворотка	PRODUCT
+'sos'	O
+
+"	O
+паста	PRODUCT
+mirrolla	BRAND
+'сульсен	O
+мите'	O
+1%,	O
+75	CARDINAL
+мл	CARDINAL
+2882290"	O
+
+спрей-антистатик	PRODUCT
+для	PRODUCT
+волос	PRODUCT
+foil	BRAND
+
+корейская	O
+тканевая	PRODUCT
+маска	PRODUCT
+восточные	O
+травы	O
+и	O
+женьшень	O
+deoproce	BRAND
+color	O
+synergy	O
+effect	O
+sheet	O
+mask	O
+
+lion	BRAND
+thailand	BRAND
+active	O
+white	O
+liquid	O
+detergent	PRODUCT
+
+"	O
+missha	BRAND
+,	O
+маска	PRODUCT
+для	PRODUCT
+лица	PRODUCT
+pure	O
+source	O
+shea	O
+butter,	O
+pocket	O
+pack,	O
+10	CARDINAL
+мл	CARDINAL
+"	O
+
+гелевые	O
+красители	PRODUCT
+art	O
+color	O
+фуксия	O
+15	CARDINAL
+мл	CARDINAL
+4942404	O
+
+grow	O
+pro	O
+hair	O
+activator	O
+mask	PRODUCT
+
+тканевая	PRODUCT
+маска	PRODUCT
+для	PRODUCT
+лица	PRODUCT
+7	BRAND
+days	BRAND
+go	MODEL
+vegan	MODEL
+'	O
+smoothie	O
+tuesday	O
+'	O
+25г	CARDINAL
+
+"matrix	BRAND
+,	O
+шампунь	PRODUCT
+keep	MODEL
+me	MODEL
+vivid	MODEL
+total	MODEL
+results	MODEL
+,	O
+1000	CARDINAL
+мл	CARDINAL
+"	O
+
+увлажняющие	O
+пэды	PRODUCT
+для	PRODUCT
+чувствительной	PRODUCT
+кожи	PRODUCT
+cosrx	BRAND
+one	O
+step	O
+moisture	O
+up	O
+pad	O
+
+smashbox	BRAND
+superfan	MODEL
+mascara	PRODUCT
+
+guam	BRAND
+alga	O
+stick-cell	PRODUCT
+effetto	O
+freddo	O
+
+восстанавливающий	O
+шампунь	PRODUCT
+для	O
+волос	O
+с	O
+корнем	O
+имбиря	O
+cp-1	BRAND
+ginger	O
+purifying	O
+shampoo	O
+
+librederm	BRAND
+seracin	O
+delicate	O
+foaming	O
+face	PRODUCT
+wash	PRODUCT
+for	O
+oily	O
+and	O
+acne-prone	O
+skin	O
+
+kinetics	BRAND
+spiced	MODEL
+orange	MODEL
+&	MODEL
+sandalwood	MODEL
+hand	O
+&	O
+body	O
+lotion	PRODUCT
+
+"	O
+пайетки	PRODUCT
+плоские	O
+радужные	O
+фуксия	O
+oriental	O
+5016,	O
+4	CARDINAL
+мм	CARDINAL
+"	O
+
+o.k.beauty	BRAND
+salute	O
+slide	O
+&	O
+stay	O
+eyeliner	PRODUCT
+
+vivienne	BRAND
+sabo	BRAND
+cabaret	MODEL
+premiere	MODEL
+mascara	PRODUCT
+base	O
+volumateur	O
+
+комплимент	O
+от	O
+jo	BRAND
+malone	BRAND
+парфюмированная	PRODUCT
+мини-свеча	PRODUCT
+peony	MODEL
+and	MODEL
+blush	MODEL
+suede	MODEL
+3	CARDINAL
+см	CARDINAL
+
+"my20072109539	O
+гель	PRODUCT
+для	PRODUCT
+снятия	PRODUCT
+макияжа	PRODUCT
+,	O
+200мл	CARDINAL
+7072	O
+розовый	O
+швеция	O
+ж	O
+os"	O
+
+mizon	BRAND
+hyaluronic	O
+acid	O
+100	O
+
+крем	PRODUCT
+для	PRODUCT
+проблемной	PRODUCT
+кожи	PRODUCT
+с	O
+салициловой	O
+кислотой	O
+manyo	BRAND
+blemish	O
+red	O
+cream	O
+
+mades	BRAND
+cosmetics	BRAND
+chapter	O
+личи	O
+и	O
+лотос	O
+шампунь	PRODUCT
+
+librederm	BRAND
+q10	O
++	O
+hst	O
+anti-pollution	O
+recovering	O
+night	O
+face	O
+cream	PRODUCT
+
+gourmandise	BRAND
+savon	O
+parfume	PRODUCT
+grenade	O
+
+cremorlab	BRAND
+o2	O
+couture	O
+hydra	O
+bounce	O
+
+"	O
+londa	BRAND
+professional,	O
+набор	O
+velvet	O
+oil	PRODUCT
+"	O

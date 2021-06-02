@@ -129,8 +129,10 @@ def train(args):
     # load data
     logger.info("Loading data with batch size {}...".format(args['batch_size']))
     train_doc = Document(json.load(open(args['train_file'])))
+    logger.debug("\t loading training data")
     train_batch = DataLoader(train_doc, args['batch_size'], args, pretrain, evaluation=False)
     vocab = train_batch.vocab
+    logger.debug("\t loading dev data")
     dev_doc = Document(json.load(open(args['eval_file'])))
     dev_batch = DataLoader(dev_doc, args['batch_size'], args, pretrain, vocab=vocab, evaluation=True)
     dev_gold_tags = dev_batch.tags

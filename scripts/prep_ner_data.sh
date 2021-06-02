@@ -23,8 +23,10 @@ test_json_file=$NER_DATA_DIR/${short}.test.json
 
 # create json file if exists; otherwise create empty files
 if [ -e $train_file ]; then
+    echo "run prepare_ner_data.py $train_file $train_json_file"
     python stanza/utils/prepare_ner_data.py $train_file $train_json_file
 else
+    echo "touch $train_json_file"
     touch $train_json_file
 fi
 if [ -e $dev_file ]; then
